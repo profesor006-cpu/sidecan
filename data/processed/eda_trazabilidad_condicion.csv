@@ -1,0 +1,10 @@
+grupo_condicion,total_casos,pct_gatos,pct_no_esterilizados,estancia_mediana_dias,estancia_media_dias,tasa_supervivencia_pct,pct_adopcion,pct_devuelto_dueno,pct_rescate_ong,pct_eutanasia,pct_fallecido,pct_del_total
+Sano / Normal,15077,39.09,47.36,7.0,22.02,96.19,33.28,19.64,14.29,3.2,0.51,44.44
+Cría / Bajo peso,9395,95.84,72.66,5.0,23.28,80.23,20.66,0.12,49.46,15.7,3.42,27.69
+Enfermo (Leve/Mod.),3138,81.04,49.75,10.0,24.61,72.66,25.78,5.83,23.49,23.87,2.8,9.25
+Herido (Leve/Mod.),1903,53.34,41.5,8.0,22.54,77.27,26.85,15.92,15.66,20.81,1.42,5.61
+Herido (Grave),1428,67.93,73.66,0.0,7.86,29.99,7.63,7.28,11.34,61.83,7.14,4.21
+Feral / Conducta,1236,87.54,19.21,13.0,25.62,90.25,14.16,4.77,13.11,8.74,0.73,3.64
+Enfermo (Grave),1150,87.57,75.96,0.0,8.83,20.82,7.3,1.91,8.7,68.09,10.17,3.39
+Otra / Reporte I/I,412,46.36,39.66,13.5,39.61,90.2,46.6,10.44,22.09,7.52,1.7,1.21
+Edad avanzada,187,4.28,49.73,3.0,14.33,90.37,14.97,54.55,18.72,8.56,1.07,0.55
