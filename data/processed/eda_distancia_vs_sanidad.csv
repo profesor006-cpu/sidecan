@@ -1,0 +1,5 @@
+rango_distancia,total_casos,pct_gatos,pct_no_esterilizados,pct_vulnerables,pct_graves,estancia_mediana_dias,tasa_supervivencia_pct
+< 0.75 km,9918,63.54,53.47,49.02,6.98,7.0,83.71
+0.75 - 1.5 km,14898,63.9,55.09,50.38,7.61,7.0,82.87
+1.5 - 2.5 km,5872,62.87,53.1,51.98,8.33,7.0,82.64
+> 2.5 km,2269,66.51,57.58,53.81,9.34,7.0,80.1
